@@ -1,6 +1,5 @@
 /****************************************************************************************
-*   This is the skeleton code for text-based Wordle Game assigned to BCE-3A as their 2nd
-*   mini-project. The program presents a menu to the user/player to start the game. The
+*   The program presents a menu to the user/player to start the game. The
 *   game-play requires the player to guess a 5-letter word in 6 tries. A try is valid if
 *   the user enters a 5 letter word that is present in the dictionary. After the user has
 *   entered a valid word, it needs to be compared against the solution. All the letters
